@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>201 First class</title>
+<style>
+
+h1 {color: red;}   
+h1{background-color: black;} 
+</style>
+</head>
+<body>
+    <header>
+
+<p style="color: red;  background-color : rgb(138, 209, 131);">Can i have your name please?</p>
+<p style="color: blue; background-color : rgb(190, 102, 107);">What countries you would like to visit?</p>
+<p style="color: green; background-color : rgb(129, 131, 161);">Are you interested in booking a trip  with us?</p>
+<p style="color: pink;background-color : rgb(22, 130, 231);">Enter your email below and we will send you the details</p>
+
+    </header>
+    <main>
+        <h1>Class 1 Lab</h1>
+
+
+    </main>
+    <footer>
+        &copy; Ahmad-zaid
+    </footer>
+    
+</body>
+<script>
+let name=prompt("Can i have your name please? ")
+alert("Hello "+ name)
+console.log("asking for user name");
+let TravePlace=prompt("What countries you would like to visit ?")
+alert("you would like to visit " +TravePlace)
+console.log("asking for contuires that user like");
+let ask=prompt("Are you interested in booking a trip to " +TravePlace+ " with us?")
+if(ask==="yes")
+{
+    alert("great, you are intersted to book a trip with us to "+ TravePlace)
+    console.log("tell the user that we have a suggestions for his choice");
+    let email=prompt("Enter your email below and we will send you the details")
+alert("Thanks,your name is "+name+ ", and you would like to visit "+TravePlace+" ,you are interested in booking a trip with us to "+TravePlace+", your Email address is"+email)
+console.log("ask for user email");
+}
+else {
+alert("Don't worry, you can always check our website to see the new offers")
+
+}
+</script>
+</html>
