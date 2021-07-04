@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6
 h1 is used for main heading  
 h2 is using for sub-heading   
 If there are further sections 
-under the subheadings then the 
+under the subheadings then the g
 h3 element is used, and so 
 on..  
 p
