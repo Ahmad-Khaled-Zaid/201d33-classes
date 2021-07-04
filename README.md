@@ -27,17 +27,17 @@ This file modifyed to accomodate ***Code 102*** and ***Code 201*** reading notes
 | assginment |  Link  |
 |:-----------------: |-------------:|
 |Read01| [*class-01*]() |  
-|Read02| [*class-01*]() |  
-|Read03| [*class-01*]() |  
-|Read04| [*class-01*]() |    
-|Read05| [*class-01*]() |  
-|Read06| [*class-01*]() |  
-|Read07| [*class-01*]() |  
-|Read08| [*class-01*]() |  
-|Read09| [*class-01*]() |  
-|Read10| [*class-01*]() |  
-|Read11| [*class-01*]() |  
-|Read12| [*class-01*]() |  
-|Read13| [*class-01*]() |  
-|Read14| [*class-01*]() |  
-|Read15| [*class-01*]() |
+|Read02| [*class-02*]() |  
+|Read03| [*class-03*]() |  
+|Read04| [*class-04*]() |    
+|Read05| [*class-05*]() |  
+|Read06| [*class-06*]() |  
+|Read07| [*class-07*]() |  
+|Read08| [*class-08*]() |  
+|Read09| [*class-09*]() |  
+|Read10| [*class-10*]() |  
+|Read11| [*class-11*]() |  
+|Read12| [*class-12*]() |  
+|Read13| [*class-13*]() |  
+|Read14| [*class-14*]() |  
+|Read15| [*class-15*]() |
