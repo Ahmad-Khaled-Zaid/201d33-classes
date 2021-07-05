@@ -28,7 +28,7 @@ This file modifyed to accomodate ***Code 102*** and ***Code 201*** reading notes
 |:-----------------: |-------------:|
 |class01| [*class-01*](https://ahmad-khaled-zaid.github.io/201d33-classes/class01/index.html) |  
 |class02| [*class-02*](https://ahmad-khaled-zaid.github.io/201d33-classes/class02/class-02) |  
-|class03| [*class-03*](https://github.com/Ahmad-Khaled-Zaid/AboutMe/blob/main/classread03.md) |  
+|class03| [*class-03*]() |  
 |class04| [*class-04*]() |    
 |class05| [*class-05*]() |  
 |class06| [*class-06*]() |  
